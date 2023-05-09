@@ -1,0 +1,32 @@
+.heading
+{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Are You Serious', cursive;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    background-color:rgb(144, 36, 187);
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+.note
+{
+    font-size: 15px;
+    color: white
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(97, 94, 94);
+    background-color: white;
+}
